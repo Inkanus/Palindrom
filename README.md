@@ -1,1 +1,2 @@
 # Palindrom
+Program znajdujący palindromy
